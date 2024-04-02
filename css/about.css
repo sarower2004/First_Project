@@ -1,0 +1,13 @@
+.wrapper {
+    height: 750px;
+    width: 100%;
+    background-color: gray;
+    padding: 0PX;
+    text-align: justify;
+    color: #020263;
+    border-radius: 10px;
+}
+h1{
+    padding: 10PX;
+    color: white;
+}
